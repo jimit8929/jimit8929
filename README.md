@@ -242,7 +242,3 @@ Other        15 mins         ▒░░░░░░░░░░░░░░░░
 <div align="center">
   <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🚀;Let's+build+something+amazing+together!+✨;Happy+coding!+💻" />
-</div>
