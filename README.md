@@ -91,7 +91,7 @@ attachments.
 
 > **Description:** A comprehensive task management platform that leverages AI to provide intelligent task prioritization, deadline predictions, and productivity insights. Features real-time collaboration, advanced filtering, and beautiful animations for an enhanced user experience.
 
-[🔗 **View Project**](https://github.com/jimit8929/TaskJoy) | [🌐 **Live Demo**](https://github.com/jimit8929/TaskJoy)
+[🔗 **View Project**](https://github.com/jimit8929/TaskJoy) | [🌐 **Live Demo**](https://task-joy.vercel.app/)
 
 ---
 
@@ -115,7 +115,7 @@ smart settlement reminders via email.
 
 > **Description:** An intelligent expense tracking and debt management application that simplifies complex group expenses using advanced algorithms. Features real-time data synchronization, automated debt calculations, and beautiful data visualizations.
 
-[🔗 **View Project**](https://github.com/jimit8929/SplitZee) | [🌐 **Live Demo**](https://github.com/jimit8929/SplitZee)
+[🔗 **View Project**](https://github.com/jimit8929/SplitZee) | [🌐 **Live Demo**](https://splitzee.vercel.app/)
 
 ---
 
@@ -136,7 +136,7 @@ smart settlement reminders via email.
 
 > **Description:** A stunning showcase of advanced GSAP animation techniques featuring scroll-triggered animations, morphing shapes, and interactive elements. Demonstrates mastery of animation principles and modern web performance optimization.
 
-[🔗 **View Project**](https://github.com/jimit8929/GSAP_Project) | [🌐 **Live Demo**](https://github.com/jimit8929/GSAP_Project)
+[🔗 **View Project**](https://github.com/jimit8929/GSAP_Project) | [🌐 **Live Demo**](https://milky-motion.vercel.app/)
 
 ---
 
@@ -155,7 +155,7 @@ smart settlement reminders via email.
 
 > **Description:** A comprehensive collection of interactive JavaScript projects showcasing core programming concepts, DOM manipulation, API integration, and modern JavaScript features. Perfect demonstration of vanilla JavaScript mastery.
 
-[🔗 **View Project**](https://github.com/jimit8929/Js_Projects) | [🌐 **Live Demo**](https://github.com/jimit8929/Js_Projects)
+[🔗 **View Project**](https://github.com/jimit8929/Js_Projects)
 
 ---
 
@@ -177,7 +177,7 @@ smart settlement reminders via email.
 
 > **Description:** A diverse collection of creative mini-projects exploring various web development concepts, CSS animations, and interactive user interfaces. Showcases creativity and attention to detail in web design.
 
-[🔗 **View Project**](https://github.com/jimit8929/Html_Css_JS_MiniProjects) | [🌐 **Live Demo**](https://github.com/jimit8929/Html_Css_JS_MiniProjects)
+[🔗 **View Project**](https://github.com/jimit8929/Html_Css_JS_MiniProjects) | [🌐 **Live Demo**](https://jimit8929.github.io/Html_Css_JS_MiniProjects/)
 
 ---
 
