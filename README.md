@@ -11,7 +11,7 @@
 I'm a passionate Full-Stack Web Developer with expertise in modern web technologies. I love creating interactive, user-friendly applications that solve real-world problems. Currently diving deep into **Nextjs and Backend** ecosystem while exploring the latest trends in web development.
 
 - 🔭 Currently working on exciting projects with **Full-Stack Development** and **Modern Technologies**
-- 🌱 Learning advanced **TypeScript** patterns and **Full-Stack Development**
+- 🌱 Learning **Modern Tools** of Frontend and Backend
 - 📫 Reach me at: **jimit8929@gmail.com**
 
 
