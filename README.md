@@ -2,15 +2,15 @@
   
 ![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=JIMIT%20MEHTA&text2=Front-End%20Developer&width=900&height=200)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%26+Next.js+Learner;UI%2FUX+Enthusiast;Animation+%26+Interaction+Lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Animation+%26+Interaction+Lover)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Front-End Developer** with expertise in modern web technologies. I love creating interactive, user-friendly applications that solve real-world problems. Currently diving deep into **React.js & Next.js** ecosystem while exploring the latest trends in web development.
+I'm a passionate Full-Stack Web Developer with expertise in modern web technologies. I love creating interactive, user-friendly applications that solve real-world problems. Currently diving deep into **Nextjs and Backend** ecosystem while exploring the latest trends in web development.
 
-- 🔭 Currently working on exciting projects with **React** and **Next.js**
+- 🔭 Currently working on exciting projects with **Full-Stack Development** and **Modern Technologies**
 - 🌱 Learning advanced **TypeScript** patterns and **Full-Stack Development**
 - 📫 Reach me at: **jimit8929@gmail.com**
 
