@@ -199,16 +199,18 @@ smart settlement reminders via email.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimit8929&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Most Used Languages" />
 </div>
 
+<!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimit8929&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimit8929&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00FF94&fire=FF6B9D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&border_radius=15" />
+
+<br/><br/>
+
+<!-- Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jimit8929&bg_color=0D1117&color=00D9FF&line=00FF94&point=FFFFFF&hide_border=true&radius=15&custom_title=💻%20Contribution%20Activity%20Graph&area=true&area_color=00D9FF" />
+
+<br/><br/>
+  
 </div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jimit8929&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
 
 ## 💻 Weekly Development Breakdown
 
@@ -249,3 +251,14 @@ Other        15 mins         ▒░░░░░░░░░░░░░░░░
 <div align="center">
   <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
 </div>
+
+
+
+
+
+
+
+
+
+
+
