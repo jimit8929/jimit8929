@@ -102,6 +102,36 @@ attachments.
 
 ---
 
+---
+
+### 🤖 PrepWiseAI - Smart AI-Powered Interview Preparation
+<div align="left">
+  <img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=for-the-badge" alt="Live" />
+  <img src="https://img.shields.io/badge/TYPE-Full_Stack-blue?style=for-the-badge" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/CATEGORY-EdTech-purple?style=for-the-badge" alt="EdTech" />
+</div>
+
+**🛠️ Tech Stack:**  
+- **Frontend:** React.js • TailwindCSS • Framer Motion • React Router • Axios  
+- **Backend:** Node.js • Express.js • MongoDB • Mongoose • JWT • bcryptjs  
+- **AI Integration:** Google Gemini API  
+
+**✨ Key Features:**  
+- 🔐 Secure JWT-based registration and login  
+- 🧑‍💼 Role-based question generation tailored to job role & experience  
+- 🤖 AI-powered Q&A using Google Gemini API  
+- 📂 Interactive learning UI with clean accordion-based study sessions  
+- 🔍 On-demand concept breakdowns and detailed explanations  
+- 📌 Question pinning for quick review  
+- 💾 Session management with persistent progress storage  
+- 📱 Responsive, mobile-first design with smooth animations  
+
+> **Description:** A smart AI-powered interview preparation application that delivers role-specific interview questions and model answers powered by Google Gemini. Expand answers, dive deeper into concepts on demand, and pin what matters — practice smarter, interview stronger.  
+
+[🔗 **View Project**](https://github.com/jimit8929/PrepWise) | [🌐 **Live Demo**](https://prepwiseai-five.vercel.app/)
+
+---
+
 ### 💰 SplitZee - Smart Debt Simplification & Expense Tracker
 <div align="left">
   <img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=for-the-badge" alt="Live" />
@@ -147,50 +177,6 @@ smart settlement reminders via email.
 
 ---
 
-### 🚀 JavaScript Practice Projects
-<div align="left">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-green?style=for-the-badge" alt="Active" />
-  <img src="https://img.shields.io/badge/TYPE-Frontend-yellow?style=for-the-badge" alt="Frontend" />
-  <img src="https://img.shields.io/badge/CATEGORY-Learning-lightblue?style=for-the-badge" alt="Learning" />
-</div>
-
-**🛠️ Tech Stack:** Vanilla JavaScript • HTML5 • CSS3 • TailwindCSS
-
-**✨ Key Features:**
-- 🎯 Interactive DOM manipulation projects
-- 🎨 Creative UI components and animations
-
-> **Description:** A comprehensive collection of interactive JavaScript projects showcasing core programming concepts, DOM manipulation, API integration, and modern JavaScript features. Perfect demonstration of vanilla JavaScript mastery.
-
-[🔗 **View Project**](https://github.com/jimit8929/Js_Projects)
-
----
-
-### 🎨 Mini Projects Collection
-<div align="left">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-green?style=for-the-badge" alt="Active" />
-  <img src="https://img.shields.io/badge/TYPE-Frontend-yellow?style=for-the-badge" alt="Frontend" />
-  <img src="https://img.shields.io/badge/CATEGORY-Creative-pink?style=for-the-badge" alt="Creative" />
-</div>
-
-**🛠️ Tech Stack:** HTML • CSS • JavaScript
-
-**✨ Key Features:**
-- 🎨 Creative UI experiments and concepts
-- 🎭 CSS animations and transitions
-- 🎯 Interactive user interfaces
-- 📱 Responsive design implementations
-- 🎪 Fun and engaging user experiences
-
-> **Description:** A diverse collection of creative mini-projects exploring various web development concepts, CSS animations, and interactive user interfaces. Showcases creativity and attention to detail in web design.
-
-[🔗 **View Project**](https://github.com/jimit8929/Html_Css_JS_MiniProjects) | [🌐 **Live Demo**](https://jimit8929.github.io/Html_Css_JS_MiniProjects/)
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/💡_More_Projects_Coming_Soon-black?style=for-the-badge&logo=github&logoColor=white" alt="More Projects Coming Soon" />
-</div>
 
 ## 📊 GitHub Analytics
 
