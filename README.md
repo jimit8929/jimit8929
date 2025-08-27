@@ -1,10 +1,8 @@
-<div align="center">
-  
-![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=JIMIT%20MEHTA&text2=Front-End%20Developer&width=900&height=200)
+<h1 align="center">
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=JIMIT%20MEHTA&text2=Frontend%20%7C%20Animations&width=900&height=120" alt="Jimit Mehta Banner" />
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Animation+%26+Interaction+Lover)](https://git.io/typing-svg)
 
-</div>
 
 ## 🚀 About Me
 
