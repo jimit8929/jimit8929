@@ -183,19 +183,15 @@ smart settlement reminders via email.
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=jimit8929&show_icons=true&theme=react&locale=en&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimit8929&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Most Used Languages" />
+
+
+<!-- Streak stats (simple canonical URL) -->
+[![GitHub Streak](https://streak-stats.vercel.app/?user=jimit8929&theme=tokyonight&hide_border=true&&background=0D1117&stroke=00D9FF&ring=00FF94&fire=FF6B9D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&border_radius=16)](https://github.com/jimit8929)
 </div>
 
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <img src="https://git-hub-streak-stats.vercel.app?user=jimit8929&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00FF94&fire=FF6B9D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&border_radius=16" alt="GitHub Streak" />
-</div>
+<!-- Contribution activity graph (canonical) -->
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jimit8929&bg_color=0D1117&color=00D9FF&line=00FF94&point=FFFFFF&hide_border=true&radius=17&area=true&area_color=00D9FF)
 
-
-
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jimit8929&bg_color=0D1117&color=00D9FF&line=00FF94&point=FFFFFF&hide_border=true&radius=17&custom_title=💻%20Contribution%20Activity%20Graph&area=true&area_color=00D9FF" />
-
-<br/><br/>
   
 </div>
 
