@@ -196,7 +196,7 @@ smart settlement reminders via email.
 </div>
 
 <!-- Contribution activity graph (canonical) -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jimit8929&bg_color=0D1117&color=00D9FF&line=00FF94&point=FFFFFF&hide_border=true&radius=17&area=true&area_color=00D9FF)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jimit8929&bg_color=0D1117&color=00D9FF&line=00FF94&point=FFFFFF&hide_border=true&radius=16&area=true&area_color=00D9FF)
 
   
 </div>
