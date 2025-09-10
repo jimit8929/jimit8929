@@ -85,7 +85,9 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
   <img src="https://img.shields.io/badge/🚀_My_Projects-black?style=for-the-badge&logo=github&logoColor=white" alt="My Projects" />
 </div>
 
-### 🎉 TaskJoy - AI Integrated Task Management Platform
+<details>
+<summary><h3>🎉 TaskJoy - AI Integrated Task Management Platform</h3></summary>
+
 <div align="left">
   <img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=for-the-badge" alt="Live" />
   <img src="https://img.shields.io/badge/TYPE-Full_Stack-blue?style=for-the-badge" alt="Full Stack" />
@@ -97,8 +99,7 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 **✨ Key Features:**
 - Built the front end in React.js with React-Router for seamless client-side navigation.
 - Integrated Clerk for secure, passwordless authentication and role-based access.
-- Configured Appwrite BaaS to handle real-time task CRUD operations, database rules, and file storage for
-attachments.
+- Configured Appwrite BaaS to handle real-time task CRUD operations, database rules, and file storage for attachments.
 - Crafted a responsive UI with TailwindCSS and GSAP for interactive animations.
 - Developed an AI-Driven Task Generator to automate task creation and enhance management workflows.
 
@@ -106,11 +107,13 @@ attachments.
 
 [🔗 **View Project**](https://github.com/jimit8929/TaskJoy) | [🌐 **Live Demo**](https://task-joy.vercel.app/)
 
----
+</details>
 
 ---
 
-### 🤖 PrepWiseAI - Smart AI-Powered Interview Preparation
+<details>
+<summary><h3>🤖 PrepWiseAI - Smart AI-Powered Interview Preparation</h3></summary>
+
 <div align="left">
   <img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=for-the-badge" alt="Live" />
   <img src="https://img.shields.io/badge/TYPE-Full_Stack-blue?style=for-the-badge" alt="Full Stack" />
@@ -136,9 +139,13 @@ attachments.
 
 [🔗 **View Project**](https://github.com/jimit8929/PrepWise) | [🌐 **Live Demo**](https://prepwiseai-five.vercel.app/)
 
+</details>
+
 ---
 
-### 💰 SplitZee - Smart Debt Simplification & Expense Tracker
+<details>
+<summary><h3>💰 SplitZee - Smart Debt Simplification & Expense Tracker</h3></summary>
+
 <div align="left">
   <img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=for-the-badge" alt="Live" />
   <img src="https://img.shields.io/badge/TYPE-Full_Stack-blue?style=for-the-badge" alt="Full Stack" />
@@ -152,17 +159,20 @@ attachments.
 - Integrated Clerk for secure, passwordless authentication and role-based access.
 - Used Convex for real-time expense storage and live updates across users.
 - Enabled multi-mode splitting (equal, percentage, custom) with auto debt-simplification.
-- Implemented Inngest workflows to trigger AI-driven spending analysis, send personalized insights, and schedule
-smart settlement reminders via email.
+- Implemented Inngest workflows to trigger AI-driven spending analysis, send personalized insights, and schedule smart settlement reminders via email.
 - Implemented React Hook Form + Zod for robust schema-validated forms across all user inputs.
 
 > **Description:** An intelligent expense tracking and debt management application that simplifies complex group expenses using advanced algorithms. Features real-time data synchronization, automated debt calculations, and beautiful data visualizations.
 
 [🔗 **View Project**](https://github.com/jimit8929/SplitZee) | [🌐 **Live Demo**](https://splitzee.vercel.app/)
 
+</details>
+
 ---
 
-### 🎨 Spylt - GSAP Animation Showcase
+<details>
+<summary><h3>🎨 Spylt - GSAP Animation Showcase</h3></summary>
+
 <div align="left">
   <img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=for-the-badge" alt="Live" />
   <img src="https://img.shields.io/badge/TYPE-Frontend-yellow?style=for-the-badge" alt="Frontend" />
@@ -181,7 +191,7 @@ smart settlement reminders via email.
 
 [🔗 **View Project**](https://github.com/jimit8929/GSAP_Project) | [🌐 **Live Demo**](https://milky-motion.vercel.app/)
 
----
+</details>
 
 
 ## 📊 GitHub Analytics
