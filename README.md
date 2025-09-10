@@ -193,6 +193,8 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 
 </details>
 
+---
+
 
 ## 📊 GitHub Analytics
 
