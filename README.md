@@ -199,8 +199,7 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jimit8929&show_icons=true&theme=react&locale=en&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimit8929&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Most Used Languages" />
+   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimit8929&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Most Used Languages" />
 
 
 <!-- Streak stats (simple canonical URL) -->
