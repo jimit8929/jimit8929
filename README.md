@@ -238,7 +238,7 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 ---
 
 <div align="center">
-  <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House.</h3>
+  <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
 </div>
 
 
