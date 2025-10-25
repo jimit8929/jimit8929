@@ -10,7 +10,7 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 
 - 🔭 Currently working on exciting projects with **Full-Stack Development** and **Modern Technologies.**
 - 🌱 Learning **Modern Tools** of Frontend and Backend.
-- 📫 Reach me at: **jimit8929@gmail.com**.
+- 📫 Reach me at: **jimit8929@gmail.com**
 
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
