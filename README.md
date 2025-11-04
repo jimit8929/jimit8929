@@ -14,7 +14,6 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
-
 <h3 align="center">👨‍💻 Languages</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,14 +24,12 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
-
 <h3 align="center">🚀 Frameworks & Libraries</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
@@ -41,10 +38,18 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=convex&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
+<h3 align="center">☁️ Cloud / Hosting & Services</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-3B82F6?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
+</div>
 
 <h3 align="center">🛠️ Developer Tools</h3>
 <div align="center">
@@ -53,31 +58,14 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
-
-<h3 align="center">☁️ Cloud / Hosting & Services</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clerk-3B82F6?style=for-the-badge&logo=clerk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inngest-1C1C1C?style=for-the-badge&logo=inngest&logoColor=white" />
-</div>
-
 <h3 align="center">🎨 Animation / UI</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </div>
 
-<h3 align="center">⚡ State, Forms & Validation</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Zustand-4433FF?style=for-the-badge&logo=zustand&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-276EF1?style=for-the-badge&logo=zod&logoColor=white" />
-</div>
-
 <br/>
+
 
 ## 🎯 Featured Projects
 
