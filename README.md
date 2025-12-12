@@ -1,20 +1,35 @@
-<h1 align="center">
+<div align="center">
   <img src="https://svg-banners.vercel.app/api?type=luminance&text1=JIMIT%20MEHTA&text2=Frontend%20%7C%20Animations&width=900&height=120" alt="Jimit Mehta Banner" />
-</h1>
+</div>
 
+<br/>
 
+<div align="center">
 
 ## 🚀 About Me
 
 I'm a passionate Full-Stack Web Developer with expertise in modern web technologies. I love creating interactive, user-friendly applications that solve real-world problems. Currently diving deep into **Nextjs and Backend** ecosystem while exploring the latest trends in web development.
 
+</div>
+
+<div align="center">
+
 - 🔭 Currently working on exciting projects with **Full-Stack Development** and **Modern Technologies.**
 - 🌱 Learning **Modern Tools** of Frontend and Backend.
 - 📫 Reach me at: **jimit8929@gmail.com**.
 
+</div>
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
-<h3 align="center">👨‍💻 Languages</h3>
+<br/>
+
+<div align="center">
+
+## ⚒️ Tech Stack ⚒️
+
+### 👨‍💻 Languages
+
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -24,7 +39,14 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
-<h3 align="center">🚀 Frameworks & Libraries</h3>
+<br/>
+
+<div align="center">
+
+### 🚀 Frameworks & Libraries
+
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -33,7 +55,14 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
-<h3 align="center">🗄️ Databases & Backend / Infra</h3>
+<br/>
+
+<div align="center">
+
+### 🗄️ Databases & Backend / Infra
+
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -41,7 +70,14 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-<h3 align="center">☁️ Cloud / Hosting & Services</h3>
+<br/>
+
+<div align="center">
+
+### ☁️ Cloud / Hosting & Services
+
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -51,14 +87,28 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
   <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
 </div>
 
-<h3 align="center">🛠️ Developer Tools</h3>
+<br/>
+
+<div align="center">
+
+### 🛠️ Developer Tools
+
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
-<h3 align="center">🎨 Animation / UI</h3>
+<br/>
+
+<div align="center">
+
+### 🎨 Animation / UI
+
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
@@ -66,11 +116,12 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 
 <br/>
 
+<div align="center">
 
 ## 🎯 Featured Projects
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀_My_Projects-black?style=for-the-badge&logo=github&logoColor=white" alt="My Projects" />
+<img src="https://img.shields.io/badge/🚀_My_Projects-black?style=for-the-badge&logo=github&logoColor=white" alt="My Projects" />
+
 </div>
 
 <details>
@@ -97,7 +148,7 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 
 </details>
 
----
+<hr/>
 
 <details>
 <summary><h3>🤖 PrepWiseAI - Smart AI-Powered Interview Preparation</h3></summary>
@@ -129,7 +180,7 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 
 </details>
 
----
+<hr/>
 
 <details>
 <summary><h3>💰 SplitZee - Smart Debt Simplification & Expense Tracker</h3></summary>
@@ -156,7 +207,7 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 
 </details>
 
----
+<hr/>
 
 <details>
 <summary><h3>🎨 Spylt - GSAP Animation Showcase</h3></summary>
@@ -181,61 +232,62 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 
 </details>
 
----
+<br/>
 
+<div align="center">
 
 ## 📊 GitHub Analytics
 
+</div>
+
 <div align="center">
-   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimit8929&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Most Used Languages" />
-
-
-<!-- Streak stats (simple canonical URL) -->
-[![GitHub Streak](https://streak-stats.vercel.app/?user=jimit8929&theme=tokyonight&hide_border=true&&background=0D1117&stroke=00D9FF&ring=00FF94&fire=FF6B9D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&border_radius=16)](https://github.com/jimit8929)
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=jimit8929&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimit8929&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Most Used Languages" />
 </div>
 
-<!-- Contribution activity graph (canonical) -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jimit8929&bg_color=0D1117&color=00D9FF&line=00FF94&point=FFFFFF&hide_border=true&radius=16&area=true&area_color=00D9FF)
+<br/>
 
-  
+<div align="center">
+  <img height="190" src="https://streak-stats.vercel.app/?user=jimit8929&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00FF94&fire=FF6B9D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&border_radius=16" alt="GitHub Streak" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jimit8929&bg_color=0D1117&color=00D9FF&line=00FF94&point=FFFFFF&hide_border=true&radius=16&area=true&area_color=00D9FF" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<div align="center">
 
 ## 🎯 Current Focus
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🔥_Currently_Working_On-black?style=for-the-badge&logo=rocket&logoColor=white" alt="Currently Working On" />
 </div>
+
+<div align="center">
 
 - 🚀 Building scalable applications with **Next.js 15** and **TypeScript**
 - 🎨 Mastering **Advanced Animation Techniques** with GSAP and Framer Motion
 - 🔧 Exploring **Full-Stack Development** with modern backend technologies
 - 📱 Creating **Progressive Web Apps** with enhanced user experiences
 
+</div>
+
+<br/>
+
+<div align="center">
 
 ## 🤝 Let's Connect
 
-<div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimit-mehta-890745303)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimit8929)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimit8929@gmail.com)
 
 </div>
 
----
+<hr/>
 
 <div align="center">
   <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House.</h3>
 </div>
-
-
-
-
-
-
-
-
-
-
-
