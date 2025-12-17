@@ -209,28 +209,6 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 
 <hr/>
 
-<details>
-<summary><h3>🎨 Spylt - GSAP Animation Showcase</h3></summary>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=for-the-badge" alt="Live" />
-  <img src="https://img.shields.io/badge/TYPE-Frontend-yellow?style=for-the-badge" alt="Frontend" />
-  <img src="https://img.shields.io/badge/CATEGORY-Animation-red?style=for-the-badge" alt="Animation" />
-</div>
-
-**🛠️ Tech Stack:** JavaScript • GSAP • TailwindCSS
-
-**✨ Key Features:**
-- 🎬 Advanced GSAP animations and transitions
-- 🎯 Interactive scroll-triggered animations
-- 📱 Mobile-optimized performance
-- 🎨 Modern UI with smooth interactions
-
-> **Description:** A stunning showcase of advanced GSAP animation techniques featuring scroll-triggered animations, morphing shapes, and interactive elements. Demonstrates mastery of animation principles and modern web performance optimization.
-
-[🔗 **View Project**](https://github.com/jimit8929/GSAP_Project) | [🌐 **Live Demo**](https://milky-motion.vercel.app/)
-
-</details>
 
 <br/>
 
