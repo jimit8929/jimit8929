@@ -12,7 +12,7 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 
 </div>
 
-<div align="center">
+<div align="left">
 
 - 🔭 Currently working on exciting projects with **Full-Stack Development** and **Modern Technologies.**
 - 🌱 Learning **Modern Tools** of Frontend and Backend.
