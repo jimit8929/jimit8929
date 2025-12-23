@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full-Stack Web Developer with expertise in modern web technologies. I love creating interactive, user-friendly applications that solve real-world problems. Currently diving deep into **Nextjs and Backend** ecosystem while exploring the latest trends in web development
+I'm a passionate Full-Stack Web Developer with expertise in modern web technologies. I love creating interactive, user-friendly applications that solve real-world problems. Currently diving deep into **Nextjs and Backend** ecosystem while exploring the latest trends in web development.
 
 </div>
 
