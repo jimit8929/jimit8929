@@ -340,9 +340,25 @@ Next.js  •  React.js  •  TailwindCSS  •  Clerk  •  Convex  •  Inngest 
 </div>
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=jimit8929&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimit8929&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Most Used Languages" />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jimit8929&theme=tokyonight"
+  />
+
 </div>
+
+<br/>
+
+<div align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jimit8929&theme=tokyonight"
+    height="180"
+  />
+
+</div>
+
+
 
 <br/>
 
