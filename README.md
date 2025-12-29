@@ -119,98 +119,165 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 
 <br/>
 
+
+# 🎯 Featured Projects
+
 <div align="center">
 
-## 🎯 Featured Projects
-
-<img src="https://img.shields.io/badge/🚀_My_Projects-black?style=for-the-badge&logo=github&logoColor=white" alt="My Projects" />
+[![Portfolio](https://img.shields.io/badge/🚀_Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimit8929)
 
 </div>
 
-<details>
-<summary><h3>🎉 TaskJoy - AI Integrated Task Management Platform</h3></summary>
+---
 
-<div align="left">
-  <img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=for-the-badge" alt="Live" />
-  <img src="https://img.shields.io/badge/TYPE-Full_Stack-blue?style=for-the-badge" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/CATEGORY-Productivity-orange?style=for-the-badge" alt="Productivity" />
+<details open>
+<summary>
+<h2 style="display: inline;">🎉 TaskJoy - AI-Integrated Task Management Platform</h2>
+</summary>
+
+<br>
+
+> A comprehensive task management platform that leverages AI to provide intelligent task prioritization, deadline predictions, and productivity insights. Features real-time collaboration, advanced filtering, and beautiful animations for an enhanced user experience.
+
+#### 🛠️ **Tech Stack**
+```
+React.js  •  TailwindCSS  •  Clerk  •  Appwrite  •  GSAP
+```
+
+#### ✨ **Highlights**
+
+🎨 **Modern Frontend Architecture**
+- Built with React.js and React-Router for seamless client-side navigation
+- Responsive UI crafted with TailwindCSS and GSAP animations
+
+🔐 **Secure Authentication**
+- Integrated Clerk for passwordless authentication and role-based access control
+
+⚡ **Real-Time Backend**
+- Configured Appwrite BaaS for real-time task CRUD operations
+- Database rules and file storage for task attachments
+
+🤖 **AI-Powered Features**
+- Developed AI-Driven Task Generator to automate task creation
+- Enhanced management workflows with intelligent automation
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimit8929/TaskJoy)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://task-joy.vercel.app/)
+
 </div>
-
-**🛠️ Tech Stack:** React.js • TailwindCSS • Clerk • Appwrite • GSAP
-
-**✨ Key Features:**
-- Built the front end in React.js with React-Router for seamless client-side navigation.
-- Integrated Clerk for secure, passwordless authentication and role-based access.
-- Configured Appwrite BaaS to handle real-time task CRUD operations, database rules, and file storage for attachments.
-- Crafted a responsive UI with TailwindCSS and GSAP for interactive animations.
-- Developed an AI-Driven Task Generator to automate task creation and enhance management workflows.
-
-> **Description:** A comprehensive task management platform that leverages AI to provide intelligent task prioritization, deadline predictions, and productivity insights. Features real-time collaboration, advanced filtering, and beautiful animations for an enhanced user experience.
-
-[🔗 **View Project**](https://github.com/jimit8929/TaskJoy) | [🌐 **Live Demo**](https://task-joy.vercel.app/)
 
 </details>
 
-<hr/>
+---
 
 <details>
-<summary><h3>🤖 PrepWiseAI - Smart AI-Powered Interview Preparation</h3></summary>
+<summary>
+<h2 style="display: inline;">🤖 PrepWiseAI - Smart AI-Powered Interview Preparation Platform</h2>
+</summary>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=for-the-badge" alt="Live" />
-  <img src="https://img.shields.io/badge/TYPE-Full_Stack-blue?style=for-the-badge" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/CATEGORY-EdTech-purple?style=for-the-badge" alt="EdTech" />
+<br>
+
+> A smart AI-powered interview preparation application that delivers role-specific interview questions and model answers powered by Google Gemini. Expand answers, dive deeper into concepts on demand, and pin what matters — practice smarter, interview stronger.
+
+#### 🛠️ **Tech Stack**
+
+**Frontend:** `React.js` `TailwindCSS` `Framer Motion` `React Router` `Axios`
+
+**Backend:** `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcryptjs`
+
+**AI Integration:** `Google Gemini API`
+
+#### ✨ **Highlights**
+
+🔒 **Robust Authentication**
+- Secure JWT-based registration and login system
+- Session management with persistent progress storage
+
+🎯 **Personalized Learning**
+- Role-based question generation tailored to job role & experience
+- AI-powered Q&A using Google Gemini API
+
+📚 **Interactive Experience**
+- Clean accordion-based study sessions with expandable answers
+- On-demand concept breakdowns and detailed explanations
+- Question pinning feature for quick review
+
+📱 **Modern Design**
+- Responsive, mobile-first design with smooth animations
+- Intuitive UI built with TailwindCSS and Framer Motion
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimit8929/PrepWise)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://prepwiseai-five.vercel.app/)
+
 </div>
-
-**🛠️ Tech Stack:**  
-- **Frontend:** React.js • TailwindCSS • Framer Motion • React Router • Axios  
-- **Backend:** Node.js • Express.js • MongoDB • Mongoose • JWT • bcryptjs  
-- **AI Integration:** Google Gemini API  
-
-**✨ Key Features:**  
-- 🔐 Secure JWT-based registration and login  
-- 🧑‍💼 Role-based question generation tailored to job role & experience  
-- 🤖 AI-powered Q&A using Google Gemini API  
-- 📂 Interactive learning UI with clean accordion-based study sessions  
-- 🔍 On-demand concept breakdowns and detailed explanations  
-- 📌 Question pinning for quick review  
-- 💾 Session management with persistent progress storage  
-- 📱 Responsive, mobile-first design with smooth animations  
-
-> **Description:** A smart AI-powered interview preparation application that delivers role-specific interview questions and model answers powered by Google Gemini. Expand answers, dive deeper into concepts on demand, and pin what matters — practice smarter, interview stronger.  
-
-[🔗 **View Project**](https://github.com/jimit8929/PrepWise) | [🌐 **Live Demo**](https://prepwiseai-five.vercel.app/)
 
 </details>
 
-<hr/>
+---
 
 <details>
-<summary><h3>💰 SplitZee - Smart Debt Simplification & Expense Tracker</h3></summary>
+<summary>
+<h2 style="display: inline;">💰 SplitZee - Smart Debt Simplification & Expense Tracker</h2>
+</summary>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=for-the-badge" alt="Live" />
-  <img src="https://img.shields.io/badge/TYPE-Full_Stack-blue?style=for-the-badge" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/CATEGORY-FinTech-purple?style=for-the-badge" alt="FinTech" />
+<br>
+
+> An intelligent expense tracking and debt management application that simplifies complex group expenses using advanced algorithms. Features real-time data synchronization, automated debt calculations, and beautiful data visualizations.
+
+#### 🛠️ **Tech Stack**
+```
+Next.js  •  React.js  •  TailwindCSS  •  Clerk  •  Convex  •  Inngest  •  GSAP
+```
+
+#### ✨ **Highlights**
+
+⚡ **Performance Optimized**
+- Dynamic React.js components with Next.js SSR
+- Optimized performance through dynamic routing
+
+🔐 **Secure & Scalable**
+- Clerk integration for passwordless authentication
+- Role-based access control for group management
+
+🔄 **Real-Time Synchronization**
+- Convex for real-time expense storage and live updates
+- Multi-user collaboration with instant data sync
+
+💡 **Intelligent Features**
+- Multi-mode splitting: equal, percentage, and custom shares
+- Automated debt simplification using advanced algorithms
+- AI-driven spending analysis with personalized insights
+
+🎯 **Smart Automation**
+- Inngest workflows for scheduled settlement reminders
+- Automated email notifications for expense updates
+- React Hook Form + Zod for robust form validation
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimit8929/SplitZee)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://splitzee.vercel.app/)
+
 </div>
-
-**🛠️ Tech Stack:** Next.js • React.js • TailwindCSS • Clerk • Convex • Inngest • GSAP
-
-**✨ Key Features:**
-- Built dynamic React.js components and leveraged SSR/dynamic routing in Next.js to optimize performance.
-- Integrated Clerk for secure, passwordless authentication and role-based access.
-- Used Convex for real-time expense storage and live updates across users.
-- Enabled multi-mode splitting (equal, percentage, custom) with auto debt-simplification.
-- Implemented Inngest workflows to trigger AI-driven spending analysis, send personalized insights, and schedule smart settlement reminders via email.
-- Implemented React Hook Form + Zod for robust schema-validated forms across all user inputs.
-
-> **Description:** An intelligent expense tracking and debt management application that simplifies complex group expenses using advanced algorithms. Features real-time data synchronization, automated debt calculations, and beautiful data visualizations.
-
-[🔗 **View Project**](https://github.com/jimit8929/SplitZee) | [🌐 **Live Demo**](https://splitzee.vercel.app/)
 
 </details>
 
-<hr/>
+---
+
+<div align="center">
+
+### 💡 Want to collaborate or learn more?
+
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimit8929)
+
+**⭐ If you find these projects interesting, consider giving them a star!**
+
+</div>
+
 
 
 <br/>
@@ -272,3 +339,6 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 <div align="center">
   <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House.</h3>
 </div>
+
+
+
