@@ -132,39 +132,49 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 
 <details open>
 <summary>
-<h2 style="display: inline;">🎉 TaskJoy - AI-Integrated Task Management Platform</h2>
+<h2 style="display: inline;">📚 BookVerse - AI-Powered eBook Creator</h2>
 </summary>
 
 <br>
 
-> A comprehensive task management platform that leverages AI to provide intelligent task prioritization, deadline predictions, and productivity insights. Features real-time collaboration, advanced filtering, and beautiful animations for an enhanced user experience.
+> A modern, full-stack web application that leverages AI to help authors create, edit, and export professional eBooks effortlessly. Built with React, Node.js, and Google Gemini AI for intelligent content generation and seamless book management.
 
 #### 🛠️ **Tech Stack**
-```
-React.js  •  TailwindCSS  •  Clerk  •  Appwrite  •  GSAP
-```
+
+**Frontend:** `React.js` `Tailwind CSS` `Context API` `React Beautiful DnD` `Markdown Parser`
+
+**Backend:** `Node.js` `Express.js` `MongoDB` `JWT` `Google Gemini AI API`
+
+**Deployment:** `Vercel` `Render/Railway`
 
 #### ✨ **Highlights**
 
-🎨 **Modern Frontend Architecture**
-- Built with React.js and React-Router for seamless client-side navigation
-- Responsive UI crafted with TailwindCSS and GSAP animations
+🧠 **AI-Powered Content Generation**
+- Smart Outline Generator creates comprehensive eBook structures with AI-generated chapter titles
+- Intelligent Chapter Writer generates full chapter content instantly using Google Gemini AI
+- Context-Aware Writing that adapts to your book's theme and style
 
-🔐 **Secure Authentication**
-- Integrated Clerk for passwordless authentication and role-based access control
+📝 **Advanced Content Management**
+- Markdown Editor for clean, intuitive writing and formatting
+- Real-Time Preview with toggle between edit and preview modes
+- Drag & Drop Reordering for flexible chapter structuring
+- Book Details Management including title, subtitle, author, and custom cover uploads
 
-⚡ **Real-Time Backend**
-- Configured Appwrite BaaS for real-time task CRUD operations
-- Database rules and file storage for task attachments
+📤 **Professional Export & Sharing**
+- Multi-Format Export supporting PDF and Word (DOCX) files
+- Professional Formatting with styled headers, paragraphs, and images
+- One-click download for seamless publishing workflow
 
-🤖 **AI-Powered Features**
-- Developed AI-Driven Task Generator to automate task creation
-- Enhanced management workflows with intelligent automation
+💻 **Enhanced User Experience**
+- Secure JWT-based authentication for login and signup
+- Dashboard Management with professional grid layout for all eBooks
+- Responsive, mobile-friendly design built with Tailwind CSS
+- View, edit, and delete eBooks with intuitive controls
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimit8929/TaskJoy)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://task-joy.vercel.app/)
+[![View Project](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimit8929/BookVerse)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ebook-creator-inky.vercel.app/)
 
 </div>
 
@@ -212,6 +222,48 @@ React.js  •  TailwindCSS  •  Clerk  •  Appwrite  •  GSAP
 
 [![View Project](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimit8929/PrepWise)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://prepwiseai-five.vercel.app/)
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary>
+<h2 style="display: inline;">🎉 TaskJoy - AI-Integrated Task Management Platform</h2>
+</summary>
+
+<br>
+
+> A comprehensive task management platform that leverages AI to provide intelligent task prioritization, deadline predictions, and productivity insights. Features real-time collaboration, advanced filtering, and beautiful animations for an enhanced user experience.
+
+#### 🛠️ **Tech Stack**
+```
+React.js  •  TailwindCSS  •  Clerk  •  Appwrite  •  GSAP
+```
+
+#### ✨ **Highlights**
+
+🎨 **Modern Frontend Architecture**
+- Built with React.js and React-Router for seamless client-side navigation
+- Responsive UI crafted with TailwindCSS and GSAP animations
+
+🔐 **Secure Authentication**
+- Integrated Clerk for passwordless authentication and role-based access control
+
+⚡ **Real-Time Backend**
+- Configured Appwrite BaaS for real-time task CRUD operations
+- Database rules and file storage for task attachments
+
+🤖 **AI-Powered Features**
+- Developed AI-Driven Task Generator to automate task creation
+- Enhanced management workflows with intelligent automation
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimit8929/TaskJoy)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://task-joy.vercel.app/)
 
 </div>
 
@@ -277,7 +329,6 @@ Next.js  •  React.js  •  TailwindCSS  •  Clerk  •  Convex  •  Inngest 
 **⭐ If you find these projects interesting, consider giving them a star!**
 
 </div>
-
 
 
 <br/>
