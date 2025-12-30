@@ -152,7 +152,7 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 🧠 **AI-Powered Content Generation**
 - Smart Outline Generator creates comprehensive eBook structures with AI-generated chapter titles
 - Intelligent Chapter Writer generates full chapter content instantly using Google Gemini AI
-- Context-Aware Writing that adapts to your book's theme and style
+- Context-Aware Writing that adapts to your book's theme and style.
 
 📝 **Advanced Content Management**
 - Markdown Editor for clean, intuitive writing and formatting
