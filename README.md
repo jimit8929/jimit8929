@@ -137,7 +137,7 @@ I'm a passionate Full-Stack Web Developer with expertise in modern web technolog
 
 <br>
 
-> A modern, full-stack web application that leverages AI to help authors create, edit, and export professional eBooks effortlessly. Built with React, Node.js, and Google Gemini AI for intelligent content generation and seamless book management.
+> A modern, full-stack web application that leverages AI to help authors create, edit, and export professional eBooks effortlessly. Built with React, Node.js, and Google Gemini AI for intelligent content generation and seamless book management
 
 #### 🛠️ **Tech Stack**
 
